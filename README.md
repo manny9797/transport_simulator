@@ -1,5 +1,5 @@
 # transport_simulator
-Java application consists in a transport simulation through nodes in a network
+Java application consisting in a transport simulation through nodes in a network
 
 # Description of the proposed problem
 The problem of freight transportation management for a transportation company is to be addressed. The software allows to minimize the costs and time related to the shipment of goods with an optimal exploitation of the available resources through an intelligent store of the orders received; the orders are simulated (theoretically received from external sources in the case in question) in different cities in the database, saved on the database and, from this, are read to generate a useful graph for the creation of a number of fleets (consisting of planes, trains or trucks depending on the inputs) with associated constraints that will follow a specific path depending on the different goods they will receive. The path that the fleets will follow will occur on a graph having Italian cities as nodes. The application makes it possible to perform a simulation of the entire freight transport system from given input requirements, finally to save the day's statistics to the database; it is also possible to create a daily history so as to compare the days of the week in different weeks or, for example, to consider the comparison between months.
